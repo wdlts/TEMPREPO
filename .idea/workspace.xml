@@ -32,7 +32,11 @@
     "last_opened_file_path": "G:/#GB/PYTHON/TempRepo"
   }
 }]]></component>
+<<<<<<< HEAD
+  <component name="RunManager">
+=======
   <component name="RunManager" selected="Python.developerfile">
+>>>>>>> developer1
     <configuration name="NewFile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TempRepo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -54,6 +58,10 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
+    <recent_temporary>
+      <list>
+=======
     <configuration name="developerfile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,6 +86,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.developerfile" />
+>>>>>>> developer1
         <item itemvalue="Python.NewFile" />
       </list>
     </recent_temporary>
